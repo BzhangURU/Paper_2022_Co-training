@@ -9,7 +9,7 @@ Paper_Co-training_Prostate_Partly_Labeled_Group8.py:
 
 Read prostate cancer dataset for training, validation and test. 
 
-Currently the training set is from University of Utah and only available through material transfer agreement, please contact us(bodong.zhang@utah.edu) for details.
+Currently the training set is from University of Utah and only available through material transfer agreement, please contact us(bodong.zhang [at] utah [dot] edu) for details.
 
 The validation and test sets are publicly available, you can set program_mode='only_test' for testing.
 
@@ -29,4 +29,4 @@ To run program, simply implement "python Paper_Co-training_Prostate_Partly_Label
 convert_RGB_to_H_or_E_prostate:
 Our code to get Hematoxylin/Eosin channel images from original H&E images. 
 
-We also have kidney cancer dataset from University of Utah that is available through material transfer agreement, please contact us(bodong.zhang@utah.edu) for details.
+We also have kidney cancer dataset from University of Utah that is available through material transfer agreement, please contact us(bodong.zhang [at] utah [dot] edu) for details.
