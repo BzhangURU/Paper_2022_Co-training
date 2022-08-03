@@ -1,0 +1,2 @@
+
+ Test: average accuracy: 77.0624, TP= 199, TN= 184, FN= 46, FP= 68, F1= 0.7773, TPR= 0.8122, TNR= 0.7302, AUC= 0.8484

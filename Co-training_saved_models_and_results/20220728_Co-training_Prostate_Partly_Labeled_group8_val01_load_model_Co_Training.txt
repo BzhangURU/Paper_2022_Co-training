@@ -1,0 +1,2 @@
+
+ Val: average accuracy: 78.9823, TP= 190, TN= 167, FN= 37, FP= 58, F1= 0.8000, TPR= 0.8370, TNR= 0.7422, AUC= 0.8504
